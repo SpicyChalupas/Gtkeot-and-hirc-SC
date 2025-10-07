@@ -12,7 +12,7 @@ Product Owner: Eric Pogue
 
 Sprint 4 Planning Date/Time:
 
-Sprint 4 Planning Participants: Eric Pogue, Tessy, and Edward Scissorhands (remotely)
+Sprint 4 Planning Participants: Glaycon, Andrew, Edgar, Tom, Alan
 
 Sprint 4 Backlog:
 
