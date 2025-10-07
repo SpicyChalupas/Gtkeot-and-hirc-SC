@@ -15,3 +15,11 @@ The template includes a starter Product Backlog and Sprint Backlog.
 
 Previous Sprint Backlogs:
 - [[Sprint XX Backlog]]
+
+
+Group Members Include:
+Andrew
+Glaycon
+Edgar
+Tom
+ALan
