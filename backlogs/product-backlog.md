@@ -19,10 +19,9 @@ permalink: /backlogs/product-backlog/
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | Description here | 7 | 4 | N | -- | -- |
-| RC-002 | Description here | 7 | 4 | N | -- | -- |
-| RC-003 | Description here | 7 | 4 | N | -- | -- |
-| RC-004 | Description here | 7 | 4 | N | -- | -- |
+| RC-001 | Getting to Know Each Otther Requirement 1 | 3 | 4 | N | Ready | Alan |
+| RC-002 | Getting to Know Each Otther Requirement 2 | 5 | 4 | N | Ready | Alan |
+
 
 
 Todo:
