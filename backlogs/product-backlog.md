@@ -10,7 +10,7 @@ permalink: /backlogs/product-backlog/
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | -- | -- |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct | 5 | 3 | N | -- | -- |
-| RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | -- | -- |
+| RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Done | Glaycon |
 | RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 6 | Y | -- | -- |
 | RC-012 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 3 | Y | -- | -- |
 | RC-013 | As a developer, I want to configure local `.env` or config files for seamless local testing so that I can develop without environment conflicts. (fix) | 2 | 5 | N | -- | -- |
