@@ -28,6 +28,7 @@ Sprint 4 Backlog:
 | RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | Ready | Tom |
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct | 5 | 3 | N | Ready | Tom |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Done | Glaycon |
+| RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 6 | Y | Ready | Andrew |
 
 
 Todo:
