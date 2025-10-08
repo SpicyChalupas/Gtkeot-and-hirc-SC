@@ -37,8 +37,8 @@ Sprint 4 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-001 | Getting to Know Each Otther Requirement 1 | 3 | 4 | N | Ready | Alan |
-| RC-002 | Getting to Know Each Otther Requirement 2 | 5 | 4 | N | Ready | Alan |
+| RC-001 | Getting to Know Each Other Requirement 1 | 3 | 4 | N | Ready | Alan |
+| RC-002 | Getting to Know Each Other Requirement 2 | 5 | 4 | N | Ready | Alan |
 
 
 
