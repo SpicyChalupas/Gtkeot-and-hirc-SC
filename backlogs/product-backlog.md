@@ -20,6 +20,13 @@ permalink: /backlogs/product-backlog/
 | RC-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | 4 | 3 | Y | -- | -- |
 
 
+# 📋 Product Backlog – *Getting to Know Each Other*
+
+| **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | -- | -- |
+
+
 Todo:
 
 3. Briefly review, fix, re-estimate, and re-prioritize stories as needed
