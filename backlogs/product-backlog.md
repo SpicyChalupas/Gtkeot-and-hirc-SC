@@ -12,7 +12,7 @@ permalink: /backlogs/product-backlog/
 | RC-013 | As a developer, I want to configure local `.env` or config files for seamless local testing so that I can develop without environment conflicts. (fix) | 2 | 5 | N | -- | -- |
 | RC-014 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | -- | -- |
 | RC-017 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 0 | 3 | N | -- | -- |
-| RC-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | 4 | 3 | Y | Ready | Andrew |
+
 
 
 # 📋 Product Backlog – *Getting to Know Each Other*
