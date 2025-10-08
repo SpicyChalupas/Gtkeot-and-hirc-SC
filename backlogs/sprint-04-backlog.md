@@ -29,6 +29,8 @@ Sprint 4 Backlog:
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct | 5 | 3 | N | Ready | Tom |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Done | Glaycon |
 | RC-011 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 6 | Y | Ready | Andrew |
+| RC-015 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 3 | Y | Done | Glaycon |
+| RC-016 | As a user, I want a visually appealing application that utilizes Tailwind to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 1 | 5 | N | Ready | Edgar |
 
 
 Todo:
