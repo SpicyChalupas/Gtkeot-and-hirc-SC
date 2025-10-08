@@ -33,6 +33,14 @@ Sprint 4 Backlog:
 | RC-016 | As a user, I want a visually appealing application that utilizes Tailwind to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 1 | 5 | N | Ready | Edgar |
 | RC-018 | As a developer, I want to remove all unnecessary code from the Node.js servers so that I can improve maintainability and performance. | 4 | 3 | Y | Ready | Andrew |
 
+# 📋 Product Backlog – *Getting to Know Each Other*
+
+| **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-001 | Getting to Know Each Otther Requirement 1 | 3 | 4 | N | Ready | Alan |
+| RC-002 | Getting to Know Each Otther Requirement 2 | 5 | 4 | N | Ready | Alan |
+
+
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
