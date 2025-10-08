@@ -24,7 +24,10 @@ permalink: /backlogs/product-backlog/
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-008 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 4 | N | -- | -- |
+| RC-001 | Description here | 7 | 4 | N | -- | -- |
+| RC-002 | Description here | 7 | 4 | N | -- | -- |
+| RC-003 | Description here | 7 | 4 | N | -- | -- |
+| RC-004 | Description here | 7 | 4 | N | -- | -- |
 
 
 Todo:
