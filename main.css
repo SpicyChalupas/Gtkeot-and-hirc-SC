@@ -1,0 +1,52 @@
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px 0;
+    }
+
+    main {
+      padding: 20px;
+    }
+   
+    .team-photo {
+      width: 80%;
+      max-width: 600px;
+      margin: 20px auto;
+      display: block;
+      border: 3px solid #ccc;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin: 10px 0;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      margin-top: 40px;
+    }
+    .Assignments {
+      background: #463c3c44;
+      padding: 15px;
+      margin: 10px ;
+  }
