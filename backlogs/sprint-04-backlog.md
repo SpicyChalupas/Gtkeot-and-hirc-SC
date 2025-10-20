@@ -29,6 +29,11 @@ Sprint 4 Backlog:
 | RC-009 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct | 5 | 3 | N | Done | Tom |
 | RC-010 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 2 | N | Done | Glaycon |
 
+# 📋 Sprint 04 Backlog – *GTKEOT*
+| **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-001 | Getting to Know Eachother Requirment 1 | 3 | 4 | N | Done | Alan |
+| RC-002 | Getting to Know Eachother Requirment 2 | 5 | 4 | N | Done | Alan |
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
